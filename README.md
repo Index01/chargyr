@@ -14,7 +14,7 @@ Welcome to the chargy project. Most boring wireless phone chargers light up when
 ## Setup 
 
 Chargyr has two modes, `APMode` - if the device is unconfigured or cannot join a specified network. `ClientMode` - when credentials are configured and the specified wifi is available
-To configure the device for the first time, apply power and watch for three flashes of white light. You should then see a "Charge me up" network, join the network and cruise over to http://chargy.local
+To configure the device for the first time, apply power and watch for three flashes of white light. You should then see a "Charge me up" network appeat, join and cruise on over to http://chargy.local
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3605312/104242917-accb0f00-5414-11eb-9a24-f521e1b983ee.png" width=250>
