@@ -19,7 +19,7 @@ To configure the device for the first time, apply power and watch for three flas
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3605312/104242917-accb0f00-5414-11eb-9a24-f521e1b983ee.png" width=250>
 </p>
-* Some mobile devices have trouble resolving names. Try a laptop, or find the IP, or wait for the consumer friendly version to release. <br>
+* Some mobile devices have trouble resolving names. Try a laptop, or find the IP, or wait for the consumer friendly version to release. <br> <br>
 
 After the device is configured it should reboot and attempt to join the network. You can then rejoin your usual wifi, go to chargy.local, play with some light settings and associate friends' ids with RGB colors. When they chargy, you lighty.
 
