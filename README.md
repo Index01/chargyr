@@ -6,6 +6,7 @@ Welcome to the chargy project. Most boring wireless phone chargers light up when
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/3605312/104239526-7ccd3d00-540f-11eb-8e29-a50b94db1b3f.png" width=65%>
+<img src="https://user-images.githubusercontent.com/3605312/104260603-b0708d00-5438-11eb-898b-ea6828d88f11.gif" width=45%>
 </p>
 
 
